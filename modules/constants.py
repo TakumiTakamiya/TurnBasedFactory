@@ -1,0 +1,5 @@
+GRID_SIZE = 50
+
+# メイングリッド
+MAIN_GRID_WIDTH = 5
+MAIN_GRID_HEIGHT = 7
